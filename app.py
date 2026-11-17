@@ -101,6 +101,5 @@ def image_file(filename):
 
 
 # ===== 4. Запуск =====
-if __name__ == "__main__":
-    setup_database()
+setup_database()
     #app.run(port=3000, debug=True)
